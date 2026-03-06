@@ -74,4 +74,4 @@
 </div>
 
 ###
-<p align="left">I use Nix btw 🐧</p>
+<p align="left">I use Termux btw 🐧</p>
