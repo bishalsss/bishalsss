@@ -33,7 +33,7 @@
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/)%F0%9F%91%8B.png" alt="Hand waving" width="25" /> About Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Smiling%20Eyes.png" alt="Hand waving" width="25" /> About Me
 
 <br/>
 
@@ -50,7 +50,7 @@
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/%F0%9F%91%8D.png" alt="Thumbs up" width="25" /> Tech Stack
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Thumbs%20Up.png" alt="Thumbs up" width="25" /> Tech Stack
 
 <br/>
 
@@ -81,23 +81,15 @@
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/%F0%9F%93%8A.png" alt="Chart" width="25" /> GitHub Stats
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Chart" width="25" /> GitHub Stats
 
 <br/>
 
 <div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=bishalsss&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF&text_color=C9D1D9" />
 
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=bishalsss&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=C9D1D9" />
 
-</div>
-
-<br/>
-
-<div align="center">
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs?username=bishalsss&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" />
+<img width="49%" src="https://streak-stats.demolab.com?user=bishalsss&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -105,7 +97,7 @@
 
 <div align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=bishalsss&theme=dracula&no-frame=true&no-bg=true&column=7&margin-w=10)
+![LeetCode](https://leetcard.jacoblin.cool/bishalsss?theme=nightowl&font_size=18&extension=activity)
 
 </div>
 
@@ -115,7 +107,7 @@
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/%F0%9F%92%A1.png" alt="Lightning" width="25" /> Random Dev Quote
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Lightning" width="25" /> Random Dev Quote
 
 <br/>
 
@@ -145,7 +137,7 @@
 
 <div align="center">
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/%F0%9F%91%80.png" alt="Eyes" width="25" /> You've Reached the End!
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/OK%20Hand.png" alt="OK Hand" width="25" /> You've Reached the End!
 
 <img src="https://media.giphy.com/media/l3vR8itIh7ZAYo3Hi/giphy.gif" width="200" />
 
